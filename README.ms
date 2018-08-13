@@ -1,13 +1,14 @@
-CMS-Agriness
+# CMS-Agriness
 A Simple Content Management System (CMS)
 
-Technologies used:
+# Technologies used:
+Python
 Django (Web framework)
 Django Rest Framework - REST API
 Postgres to database 
 Swagger for creating documentation
 
-File structures:
+# File structures:
 core - System app folder
 core.migrations - Migration files for database creation
 core.models - Definition of tables
